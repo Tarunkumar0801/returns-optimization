@@ -96,4 +96,4 @@ Top 3 return reasons account for 63% of all returns:
 
 ## Author
 **Meher Tarun Kumar**
-Quality Specialist — Product Lifecycle Support
+Quality Specialist at Amazon — Product Lifecycle Support
